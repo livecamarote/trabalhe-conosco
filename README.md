@@ -19,9 +19,9 @@ O mesmo consiste em um cadastro de artista/produtor de conteúdos com os seguint
 
  - O usuário deverá ter a possibilidade de cadastrar, editar, e excluir artistas.
  - O sistema deverá validar CPF e CNPJ digitados incorretamente.
- - Um artista poderá ter + de um gênero vinculado
+ - Um artista poderá ter + de um gênero vinculado.
  - Só serão permitidas fotos no formato 200x250 e nos formatos jpeg, jpg ou png, qualquer violação dessa regra deverá ser disparada uma excessão para o usuário. 
- - As fotos poderão ser armazenadas em espaço físico de disco do projeto
+ - As fotos poderão ser armazenadas em espaço físico de disco do projeto.
 
 
 # Requisitos técnicos
