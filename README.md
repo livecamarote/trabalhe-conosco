@@ -20,12 +20,12 @@ O mesmo consiste em um cadastro de artista/produtor de conteúdos com os seguint
  - O usuário deverá ter a possibilidade de cadastrar, editar, e excluir artistas.
  - O sistema deverá validar CPF e CNPJ digitados incorretamente.
  - Um artista poderá ter + de um gênero vinculado.
- - Só serão permitidas fotos no formato 200x250 e nos formatos jpeg, jpg ou png, qualquer violação dessa regra deverá ser disparada uma excessão para o usuário. 
+ - Só serão permitidas fotos no tamanho 200x250 e nos formatos jpeg, jpg ou png, qualquer violação dessa regra deverá ser disparada uma excessão para o usuário. 
  - As fotos poderão ser armazenadas em espaço físico de disco do projeto.
 
 
 # Requisitos técnicos
 
  - O front-end poderá ser escrito em HTML5 ou utilizando algum framework como o  [ReactJS](http://reactjs.org).
- - Os dados inputados pelo usuário deverão ser salvos em um banco de dados MYSQL usando o NodeJS como layer de Backend.
+ - Os dados inputados pelo usuário deverão ser salvos em um banco de dados [MySql](http://mysql.com/) usando o [NodeJS](https://nodejs.org/en/docs/) como layer de back-end.
  - Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para *guilherme@insideplaces.com.br* e *willian@insideplaces.com.br*. 
